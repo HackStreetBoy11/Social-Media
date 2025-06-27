@@ -111,9 +111,12 @@ UI/UX polish and animations
 
 ![image](https://github.com/user-attachments/assets/0acc36d7-9553-4185-88c0-6724c9a52490)
 
-👨‍💻 Author
-Tanishk Kandpal
-Feel free to connect on LinkedIn https://www.linkedin.com/in/tanishk-kandpal-clone1311 or check out other projects!
+| Name               | Role               | LinkedIn Profile                                                  |
+| ------------------ | ------------------ | ----------------------------------------------------------------- |
+| Varun Sammal       | Backend Developer   | [LinkedIn](https://www.linkedin.com/in/varun-sammal-771122256/)   |
+| Tanishk Kandpal    | Full Stack Developer  | [LinkedIn](https://www.linkedin.com/in/tanishk-kandpal-clone1311/) |
+              |
+
 
 
 
